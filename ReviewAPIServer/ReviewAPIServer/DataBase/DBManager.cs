@@ -11,7 +11,7 @@ namespace ReviewAPIServer
     {
         private string conString;
         private const string Port = "3306";
-        private const string Database = "secure_review";
+        private const string Database = "temp";
         private const string Uid = "root";
         private const string Pwd = "root1230";
 
